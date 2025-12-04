@@ -23,7 +23,7 @@ function action(){// Inhalte für jedes Türchen
         21: "<p>Ich mag Weihnachten wirklich…aber können wir den Stress bitte zurückgeben?</p>",
         22: "<p>Weihnachten ohne Stress wäre wie Plätzchen ohne Zucker – theoretisch möglich, aber unrealistisch.</p>",
         23: "<img src='Bilder/dog-christmas-meme.jpg'>",
-        24: "<p>Verrückt, wie vertraut sich alles mit dir anfühlt.</p>",
+        24: "<p>Verrückt, wie vertraut sich alles mit dir anfühlt. Frohe Weihnachten ❤️</p>",
 
     };
 
