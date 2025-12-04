@@ -64,7 +64,7 @@ function action(){// Inhalte für jedes Türchen
                 this.innerHTML=this.dataset.original;
                 this.style.backgroundColor = "#354938";
                 this.style.color = "white";
-                this.sytle.fontSize = "";
+                this.style.fontSize = "";
             }
         });
     });
